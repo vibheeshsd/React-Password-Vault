@@ -1,0 +1,75 @@
+.search-container{ 
+    display: flex;
+    flex-wrap:wrap; 
+}
+.form-wrapper{
+    
+    width: 80%;
+    margin-left: 10%;
+}
+.inpboxwrap{
+    
+    width: 79%;
+    padding: 1%;
+}
+.add-button-wrap{
+    
+    width:15%;
+    padding: 1%;
+}
+.inpbox{
+    
+    width: 100%;
+    
+    padding: 10px;
+    border-radius: 4px;
+    
+    
+    
+}
+
+.add-button{
+    background-color: rgb(30, 126, 161);
+    color: white;
+    border-radius: 4px;
+    display:inline-block;
+    width:100%;
+    padding: 10px;
+    
+    
+    
+}
+    
+
+.table-wrapper{
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 30px;
+}
+
+
+
+.site,.user-name{
+    width: 100%;
+    padding: 0.3em;
+}
+.pass{
+    width: 60%;
+    padding: 0.3em;
+}
+
+.site-wrapper,.user-wrapper,.pass-wrapper{
+    width: 50%;
+    margin-left: 25%;
+    padding: 0.5%;
+}
+
+
+.generate-pass{
+    width:33%;
+    white-space: no-wrap;
+    word-break: keep-all;
+    padding: 0.3em;
+    float: right;
+     
+}
